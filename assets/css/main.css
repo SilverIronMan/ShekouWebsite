@@ -4119,33 +4119,6 @@ cite {
   background-color: rgba(192, 51, 74, 0.5);
 }
 
-.pagination {
-  padding: 2rem 0 6rem;
-  text-align: center;
-}
-
-.pagination a, .pagination span {
-  padding: 0.5rem 1rem;
-  display: inline-block;
-  color: #6e6e6e;
-}
-
-.pagination a {
-  text-decoration: none;
-}
-
-.pagination a:hover {
-  color: #ffffff;
-}
-
-.pagination .active {
-  border-bottom: 1px solid #6e6e6e;
-}
-
-.pagination .active:hover {
-  color: #6e6e6e;
-}
-
 .top {
   position: fixed;
   bottom: 25px;
@@ -4356,7 +4329,6 @@ cite {
 
 .author {
   padding: 2rem 0;
-  margin-bottom: 1.5rem;
   background-color: #ffffff;
 }
 
@@ -4765,13 +4737,6 @@ cite {
   .chapters .chapter_inner .chapter_title {
     font-size: 1.35rem;
     margin: 0 0 0.3rem 0;
-  }
-  .pagination {
-    padding: 2rem 0 6rem;
-  }
-  .pagination a {
-    padding: 0.5rem 0.8rem;
-    margin-left: 1rem;
   }
   .newsletter {
     padding: 2rem 0;
