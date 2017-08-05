@@ -4037,7 +4037,7 @@ cite {
   margin: 0 0 1rem 0;
 }
 
-.chapters .chapter_inner .chapter_number::after {
+.chapters .chapter_inner .chapter_title::after {
   content: "";
   display: block;
   width: 40px;
