@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Peels"
+img: sweden.jpg # Add image post (optional)
+price: $70-Up
+description:
+---
