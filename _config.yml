@@ -5,7 +5,7 @@ description: > # Your skin is your largest organ and requires routine care, just
   Enjoy a wide variety of luxurious services in a relaxing and rejuvenating environment.
   You'll leave feeling refreshed and renewed.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/shekuwebsite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
