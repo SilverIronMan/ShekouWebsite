@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Facial"
+title: "MicroBlading"
 img: sweden.jpg # Add image post (optional)
-price: $60-$190
+price: $400-Up
 description:
 ---

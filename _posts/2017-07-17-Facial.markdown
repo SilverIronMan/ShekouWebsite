@@ -2,6 +2,6 @@
 layout: post
 title: "Facial"
 img: sweden.jpg # Add image post (optional)
-price: $400-Up
+price: $60-$190
 description:
 ---
