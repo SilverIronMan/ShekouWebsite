@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Waxing"
-img: sweden.jpg # Add image post (optional)
+img: waxing.jpg # Add image post (optional)
 price: $10-$95
 description:
 ---
