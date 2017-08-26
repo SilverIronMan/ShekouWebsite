@@ -11,7 +11,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Sheku's Skin Care
-banner-desc: Take care of your skin
+banner-desc: > #
+  Your skin is your largest organ and requires routine care, just like the rest of your body.
+  Take care of it and pamper yourself with Shekou's Skincare!
+  Enjoy a wide variety of luxurious services in a relaxing and rejuvenating environment.
+  You'll leave feeling refreshed and renewed.
 
 # Author settings
 author-pic: face.jpg # your photo
