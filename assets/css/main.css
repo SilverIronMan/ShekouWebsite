@@ -3993,6 +3993,7 @@ cite {
 }
 
 .chapters .chapter {
+  height: 300px;
   position: relative;
   float: left;
   width: 32.333%;
@@ -4009,6 +4010,7 @@ cite {
 }
 
 .chapters .chapter img {
+  height: 100%;
   width: 100%;
   vertical-align: middle;
   -webkit-transition: all 0.4s;

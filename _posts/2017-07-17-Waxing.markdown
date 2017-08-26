@@ -5,3 +5,13 @@ img: waxing.jpg # Add image post (optional)
 price: $10-$95
 description:
 ---
+Waxing:
+Legs - $50-95
+Bikini - $40
+Brazilian - $80
+Arms - $55
+Underarms - $25
+Lip - $10
+Back - $55
+Nose - $10
+Specific Area - $10 (Hands, Stomach, Chest, etc.)
