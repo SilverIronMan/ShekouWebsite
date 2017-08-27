@@ -4,6 +4,7 @@ title: "Peels"
 img: peels.jpg # Add image post (optional)
 price: $70-Up
 description:
+darktext: true
 ---
 Peels - $70 and up
 <br>Microdermabrasion - $75

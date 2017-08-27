@@ -4033,6 +4033,11 @@ cite {
   color: #ffffff;
 }
 
+.chapters .chapter_inner .chapter_number.dark, .chapters .chapter_inner .chapter_title.dark {
+  color: #000;
+}
+
+
 .chapters .chapter_inner .chapter_number {
   font-size: 0.9rem;
   margin: 0 0 1rem 0;

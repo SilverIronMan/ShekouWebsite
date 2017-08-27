@@ -6,12 +6,19 @@ layout: main
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
       {% endif %}
     </a>
-    <div class="chapter_inner">
-      <h3 class="chapter_title">{{post.title}}</h3>
-      <p class="chapter_number">{{post.price}}</p>
-    </div>
+    {% if post.darktext  %}
+      <div class="chapter_inner">
+        <h3 class="chapter_title dark">{{post.title}}</h3>
+        <p class="chapter_number dark">{{post.price}}</p>
+      </div>
+    {% else %}
+      <div class="chapter_inner">
+        <h3 class="chapter_title">{{post.title}}</h3>
+        <p class="chapter_number">{{post.price}}</p>
+      </div>
+    {% endif %}
   </div>
 {% endfor %}
