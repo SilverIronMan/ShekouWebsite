@@ -6,12 +6,14 @@ price: $10-$95
 description:
 ---
 Waxing:
-Legs - $50-95
-Bikini - $40
-Brazilian - $80
-Arms - $55
-Underarms - $25
-Lip - $10
-Back - $55
-Nose - $10
-Specific Area - $10 (Hands, Stomach, Chest, etc.)
+<br>Legs - $50-95
+<br>Bikini - $40
+<br>Brazilian - $80
+<br>Arms - $55
+<br>Underarms - $25
+<br>Lip - $10
+<br>Back - $55
+<br>Nose - $10
+<br>Specific Area - $10 (Hands, Stomach, Chest, etc.)
+
+Please remember there is a 24-hour cancellation policy. For "no-shows," you will be charged 25% of your service.

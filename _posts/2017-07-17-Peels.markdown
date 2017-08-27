@@ -5,3 +5,11 @@ img: peels.jpg # Add image post (optional)
 price: $70-Up
 description:
 ---
+Peels - $70 and up
+<br>Microdermabrasion - $75
+<br>Dermoplaning - $45
+<br>Full Face Threading - $45
+<br>Full Face Waxing - $45
+<br>Eyebrow Wax, Threading or Tweezing - $22
+
+Please remember there is a 24-hour cancellation policy. For "no-shows," you will be charged 25% of your service.

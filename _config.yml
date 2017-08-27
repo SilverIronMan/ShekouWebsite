@@ -9,7 +9,7 @@ baseurl: "/ShekuWebsite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: bgimage.jpg
 banner-title: Sheku's Skin Care
 banner-desc: > #
   Your skin is your largest organ and requires routine care, just like the rest of your body.
@@ -18,7 +18,7 @@ banner-desc: > #
   You'll leave feeling refreshed and renewed.
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: shekoufeh.jpg
 author-name: Shekufeh
 about-author: I take care of people's skin.
 email: your-email@domain.com # your email
@@ -31,7 +31,7 @@ twitter_url:   # add url link
 instagram_url: # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link
-facebook_url:  # add url link
+facebook_url:  https://www.facebook.com/shekou.safari?ref=br_rs
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

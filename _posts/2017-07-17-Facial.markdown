@@ -5,3 +5,15 @@ img: facial.jpg # Add image post (optional)
 price: $60-$190
 description:
 ---
+Glow Facial - 45 minutes $60
+
+Basic Facial - 60 minutes $90
+<br>(Includes cleaning, exfoliating, extraction, massage and mask)
+
+Advance Facial - 75 minutes $140
+<br>(Includes cleaning, exfoliating, extraction, massage, dermoplaning or micdermobrasion and mask)
+
+Signature Facial - 90 minutes $190
+<br>(Includes cleaning, exfoliating, extraction, microblading or microdermabrasion, or add microcurrent [light therapy] for lift and rejuvenation. Mask will be customized for your skin. Massage full face, neck, décolleté and hands.
+
+Please remember there is a 24-hour cancellation policy. For "no-shows," you will be charged 25% of your service.
