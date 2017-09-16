@@ -4,6 +4,7 @@ title: "MicroBlading"
 img: microblading.jpg # Add image post (optional)
 price: $400-Up
 description:
+darktext: true
 ---
 Microblading - $400 and up
 
