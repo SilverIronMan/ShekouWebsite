@@ -1,3 +1,3 @@
-# Websit for Shekufeh
+# Website for Shekoufeh
 
-This is a website made for Shekufeh.
+This is a website made for Shekoufeh.
