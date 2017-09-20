@@ -1,5 +1,5 @@
 logo: # add logo name
-title: Sheku's Skin Care
+title: Shekou's Skin Care
 description: > # Your skin is your largest organ and requires routine care, just like the rest of your body.
   Take care of it and pamper yourself with Shekou's Skincare!
   Enjoy a wide variety of luxurious services in a relaxing and rejuvenating environment.
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: bgimage.jpg
-banner-title: Sheku's Skin Care
+banner-title: Shekou's Skin Care
 banner-desc: > #
   Your skin is your largest organ and requires routine care, just like the rest of your body.
   Take care of it and pamper yourself with Shekou's Skincare!
@@ -19,7 +19,7 @@ banner-desc: > #
 
 # Author settings
 author-pic: shekoufeh.jpg
-author-name: Shekufeh
+author-name: Shekoufeh
 about-author: Beautiful skin does not come from make up, it's from a good aesthetician and high quality product!
 email: 320 Seven Springs Way suit 250, Brentwood, TN  37027
 phone: (615)-219-0965 # your pnone number
